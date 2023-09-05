@@ -1,0 +1,18 @@
+body{
+  text-align: center;
+  font-size: 30px;
+  color: white;
+}
+
+span{
+	color: aliceblue;
+	padding-left:80px;
+	padding-right:80px;
+}
+
+img{
+	height: 200px;
+	width: 250px;
+	border-color: aliceblue;
+	border-style: double;
+}
